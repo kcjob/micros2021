@@ -1,5 +1,8 @@
 # README #
 
+[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
+
+
 This project show-cases the skills acquired in being able to operationalize an
 application from a developer
 
