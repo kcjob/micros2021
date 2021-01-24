@@ -1,0 +1,6 @@
+NAME        READY   STATUS    RESTARTS   AGE
+microserv   1/1     Running   1          28m
+Forwarding from 0.0.0.0:8000 -> 8000
+Handling connection for 8000
+Handling connection for 8000
+
